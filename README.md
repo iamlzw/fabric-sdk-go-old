@@ -13,6 +13,8 @@ modify go.mod
 
 ```
 # add this content on your go.mod
-replace github.com/hyperledger/fabric-sdk-go vx.x.x => ../the path of fabric-sdk-go registry
+replace github.com/hyperledger/fabric-sdk-go vx.x.x => ../the path of fabric-sdk-go repositories
 
+# for example
+replace github.com/hyperledger/fabric-sdk-go v1.0.0 => ../fabric-sdk-go
 ```
