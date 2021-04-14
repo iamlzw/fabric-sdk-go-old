@@ -6,7 +6,7 @@ when I use fabric-sdk-go to develope,I meet some error which cause by fabric-pro
 
 clone 
 ```
-git clone https://
+git clone https://github.com/iamlzw/fabric-sdk-go.git
 ```
 
 modify go.mod
